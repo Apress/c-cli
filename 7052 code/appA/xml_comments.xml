@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        xml_comments
+    </assembly>
+    <members>
+        <member name="M:R.G(System.String,System.String)">
+The method G is a method in the R class.
+<summary>Counts the number of characters in two strings.</summary><param name="s1"> Description for s1</param><param name="s2"> Description for s2</param><returns>The sum of the length of two strings.</returns></member>
+        <member name="M:R.F(System.Int32)">
+            <summary>F is a method in the R class.
+<para>You can break the comments into paragraphs.
+<see cref="M:R.G(System.String,System.String)" /> for related information.</para><seealso cref="M:R.G(System.String,System.String)" /></summary>
+        </member>
+        <member name="T:R">
+Ref class R demonstrates XML Documentation Comments.
+<summary> A class demonstrating documentation comments </summary><remarks> A detailed description of R goes into the remarks block
+</remarks></member>
+    </members>
+</doc>
